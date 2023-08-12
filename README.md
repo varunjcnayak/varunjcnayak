@@ -7,7 +7,7 @@ Fullstack developer
 I'm a Data Analyst with 2+ years of working experience and I've been working with Oracle Cloud Services and at leisure play around with javascript/typescript :: I use MongoDb and MySql for backend and reactjs/nextjs for frontend.
 
 *   🌍  I'm based in Mangaluru / India
-*   🖥️  See my portfolio at [My Portifolio](https://portfolio-new-varunjcnayak.vercel.app/)
+*   🖥️  See my portfolio at [My Portifolio](https://portfolio-master-pied.vercel.app/)
 *   ✉️  You can contact me at [varunjcnayak@gmail.com](mailto:varunjcnayak@gmail.com)
 *   🚀  I'm currently working @ Deloitte USI 
 *   🧠  I'm learning Oracle Cloud, nextjs, data-structures, microservices
