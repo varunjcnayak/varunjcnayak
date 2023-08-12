@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-I'm a Data Analyst with 2+ years of working experience and I've been working with Oracle Cloud Services and at leisure mess around with javascript/typescript :: nodejs to backend and reactjs for frontend and nextjs to both.
+I'm a Data Analyst with 2+ years of working experience and I've been working with Oracle Cloud Services and at leisure play around with javascript/typescript :: I use MongoDb and MySql for backend and reactjs/nextjs for frontend.
 
 *   🌍  I'm based in Mangaluru / India
 *   🖥️  See my portfolio at [My Portifolio](https://portfolio-new-varunjcnayak.vercel.app/)
@@ -29,13 +29,16 @@ I'm a Data Analyst with 2+ years of working experience and I've been working wit
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://docs.oracle.com/en/cloud/paas/app-builder-cloud/index.html" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCFMTiIZAE6f3Ib91sY6Ms3g&psig=AOvVaw1RGkEWi2dhTQiCesKtYngT&ust=1669538730218000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDT6sm6y_sCFQAAAAAdAAAAABAE" width="36" height="36" alt="Oracle VBCS" /></a>
 
 </p>
                     
 
 ### Socials
- <p align="left"> <a href="https://discord.com/users/mike_ross#6854" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/varunjcnayak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/varun-nayak-a060b3152/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ <p align="left">
+ <a href="https://discord.com/users/mike_ross#6854" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+ <a href="https://www.github.com/varunjcnayak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/varun-nayak-a060b3152/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
