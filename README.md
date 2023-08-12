@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-I'm a Data Analyst with 1+ years of working experience and I've been working with Oracle Cloud Services and at leisure mess around with javascript/typescript :: nodejs to backend and reactjs for frontend and nextjs to both.
+I'm a Data Analyst with 2+ years of working experience and I've been working with Oracle Cloud Services and at leisure mess around with javascript/typescript :: nodejs to backend and reactjs for frontend and nextjs to both.
 
 *   🌍  I'm based in Mangaluru / India
 *   🖥️  See my portfolio at [My Portifolio](https://portfolio-new-varunjcnayak.vercel.app/)
@@ -34,9 +34,8 @@ I'm a Data Analyst with 1+ years of working experience and I've been working wit
 </p>
                     
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://discord.com/users/mike_ross#6854" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/varunjcnayak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/varun-nayak-a060b3152/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Socials
+ <p align="left"> <a href="https://discord.com/users/mike_ross#6854" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/varunjcnayak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/varun-nayak-a060b3152/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
